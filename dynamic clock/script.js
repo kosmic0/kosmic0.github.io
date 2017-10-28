@@ -6,7 +6,7 @@ const SECONDHAND = document.querySelector("#second");
 //let minPos =  150;
 //let secPos =  40;
 
-//function updateTime(){
+function updateTime(){
 kos = new Date();
 
 zsec = kos.getSeconds();
