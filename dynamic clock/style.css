@@ -15,7 +15,7 @@
 /* Clock styles COLORSSSSSSSSSSSSSSSS======================= */
 .circle {
     fill: none;
-    stroke: #0000ff;
+    stroke: #ff0000;
     stroke-width: 9;
     stroke-miterlimit: 10;
 }
